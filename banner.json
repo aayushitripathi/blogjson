@@ -1,5 +1,19 @@
 [
-    {
+  {
+    "navData": {
+      "logo": {
+        "imgSrc": "https://niravkpatel28.github.io/github-image-repository/webpage/surfboard-logo.png",
+        "alt": "Surfboard India Company Logo"
+      },
+      "navLinks": [
+        { "linkId": "li1", "title": "Home", "href": "#" },
+        { "linkId": "li2", "title": "Our Work", "href": "#" },
+        { "linkId": "li3", "title": "About Us", "href": "#" },
+        { "linkId": "li4", "title": "Register", "href": "#", "isCta": true }
+      ]
+    }
+     },   
+     {
       "id": "2rvqpdbpka3n3fhd",
       "author": "Aryanna  Gulgowski",
       "title": "Facilis suscipit nam sunt qui blanditiis.",
@@ -240,5 +254,21 @@
         }
       ],
       "imageUrl": "https://cdn.fs.teachablecdn.com/JGo66OJORkWTyjoNbVxQ"
-    }
+    },
+    {
+    "footer":{
+      "logo": {
+          "imgSrc": "https://niravkpatel28.github.io/github-image-repository/webpage/surfboard-logo.png",
+          "alt": "Surfboard India Company Logo"
+        },
+        "navLinks": [
+          { "iconId": "icon1", "className": "fa-twitter", "href": "#" },               
+          { "iconId": "icon2", "className": "fa-linkedin-in", "href": "#" },
+          { "iconId": "icon3", "className": "fa-github", "href": "#" }
+        ],
+        "tagline":"GET READY TO EXPLORE!",
+      "buttons":"CLICK ME",
+      "para1":"Copyright © 2021 Raw Engineering LLC. All Rights Reserved."
+  }
+}
   ]
